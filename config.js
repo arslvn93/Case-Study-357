@@ -83,7 +83,7 @@ const config = {
         "After months of frustration with other agents who kept showing them generic units, Sarah and David decided to work with me because of my patience and commitment to truly understanding their needs. They trusted that I wouldn't pressure them to settle and would keep searching until we found exactly what they were looking for."
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
+        "src": "https://iili.io/KnKE9TB.webp"
       },
       "listItems": []
     },
