@@ -36,7 +36,7 @@ const config = {
       "subTitle": "Summary",
       "paragraphs": [
         "Testing Meet Sarah and David, successful professionals ready to downsize from their family home to a luxury condo in downtown Toronto. After months of searching and viewing countless cookie-cutter units, they were starting to wonder if their perfect home actually existed.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $69,000</strong> - Negotiated purchase price down from $1,869,000 to $1,800,000 <strong>SECURED DREAM LOCATION</strong> - Found the perfect unit in their most desired neighborhood <strong>ELIMINATED OVERLAP STRESS</strong> - Structured closing timeline to perfectly coordinate with their house sale <strong>GOT HOUSE-LIKE FEATURES</strong> - Spacious floor plan with proper foyer, flood of natural light, and expansive balcony <strong>AVOIDED 2022 MARKET PREMIUM</strong> - Purchased a unit that would have cost $200,000+ more in the previous year's market"
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $69,000</strong> - Negotiated purchase price down from $1,869,000 to $1,800,000. <strong>SECURED DREAM LOCATION</strong> - Found the perfect unit in their most desired neighborhood. <strong>ELIMINATED OVERLAP STRESS</strong> - Structured closing timeline to perfectly coordinate with their house sale. <strong>GOT HOUSE-LIKE FEATURES</strong> - Spacious floor plan with proper foyer, flood of natural light, and expansive balcony. <strong>AVOIDED 2022 MARKET PREMIUM</strong> - Purchased a unit that would have cost $200,000+ more in the previous year's market."
       ]
     },
     "sidebar": {
