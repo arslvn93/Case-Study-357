@@ -3,7 +3,7 @@ const config = {
     "agents": [
       {
         "name": "Myles Schwartz",
-        "imageSrc": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/ca17bf82-c160-4228-8322-1cddba92d2f4/Headshot_1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SK5YOMDL%2F20250903%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250903T203056Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCwZMfC9AkvEEy%2B8JTwkxDzTK8c1DpZ8EviOGFKXNPCCQIhAKRhIjBZy94CjujwEiY9Pwap1MrjzoZkuobmsMk4O7JgKv8DCEwQABoMNjM3NDIzMTgzODA1IgzwIyWlL0ur5G20oocq3AM75ZBYm3nlSn9sXNw5GicsKKmA7lXPHDYpJ2bRn3WC%2FZEo6MnTyVK550HLwOLyzXtTAwziE8oIBPbRQAOXMGHSgcOm4qoB15Hb3%2FXVoNLQlJKmemDctoSyY2HLHIIOyLo7%2FZICoUIIJDzGvYxhDNSGQqCM0au5E510Ln%2FfrQw1GbCe3HaGBk8tdN4GDYcQoI23qhgxN8HuyqThViznCrXMC1KeM6G3s4Wy7YxGVGKwMnSd356H9AwezsgWwZcznhlgoINKWZGbr7WU2T4e5DecGu33xLAl83cm2hpFyObDtq1rX%2BhKL%2B99KeJn1KihemRSbTzG%2BLUjnYj4oFTTc9nYRtW6wJ28k7zi5EQ4A4glLTwO9sxCX%2B6scv%2BUjoSVLq2UhzmzcJ3wqJz8EER3D1mxODzB1e6QKnnqiw91TZj4tgAPCXmrB7h3eny3PRjCgPbsajAQDXTXlZHKGkkDdVV2mrqdxOluFhHZ3MATdhPJ3SPJZ%2FGeiSHLJRYMzkkQMDRc%2Fm%2BfT8BBKOlP2pG9IUpjpisGTeu3wq00xD36HGh7Wg2V784orSQCJn1l0F%2BkoeI21Dxt8djIFr7QX2g54oLTEt6zJ%2BjyW2X5V1AnFad6zbu9PiL0IvyjYhO0kjCvq%2BLFBjqkAa2S8S29HIn7wK4OVe3hi6vfevFQMTCj%2BtMejXYoweBz2WdcQO2WE7NIC55IGD6vEyXyrwfxbjxOyH6vTDCs0jrCf%2BD%2BI%2BuSGJBaOKWsY4XZDMjb6%2BFLgeglgu8ENKV%2BWpUFfRr8JlpQyRRnNK8aCPxUBpurAV0UxGOCdz2oKpm20Qqa8%2B9rs7CnxA4UhtPPCulRU1M588ECW1Dol8oEl3Tm0k4G&X-Amz-Signature=3c2f9b07d1dacf355299ff894db6b03b2c39af755230c8cc7f86bed44674e736&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "imageSrc": "https://iili.io/KCMXWLQ.webp",
         "contactDetails": [
           {
             "type": "email",
@@ -18,7 +18,7 @@ const config = {
     ],
     "companyName": "Myles Schwartz",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "https://www.youtube.com/",
+    "mainCTAButtonURL": "https://calendly.com/mylesschwartz/discovery-call?",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2"
   },
