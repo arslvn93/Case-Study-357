@@ -25,7 +25,7 @@ const config = {
   "header": {
     "tag": "CASE STUDY",
     "title": "How We Helped Toronto Downsizers Save $69,000 and Find Their Dream Condo After 8 Months of Searching",
-    "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now Generating Top-Dollar Rent in a Tight Market"
+    "subheadline": "Purchased in a Competitive Market With Terms That Protected Their Budget and Timeline."
   },
   "mainBox": {
     "summary": {
